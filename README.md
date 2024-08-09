@@ -1,0 +1,1 @@
+For my S3 web project, the requirements were to have 1 home page and 4 webpages that are linked through the home page.  The task was to make a website about something that you think other people should know. For my project, I chose 4 countries that I think that people should know some facts about.
